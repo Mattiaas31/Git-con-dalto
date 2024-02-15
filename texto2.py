@@ -1,2 +1,2 @@
-nombre="Juancityo"
-print("HOLA SOY " + nombre)
+nombreee="Juancityo"
+print("HOLA SOY " + nombreee)
